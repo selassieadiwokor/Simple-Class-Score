@@ -1,4 +1,4 @@
-This program simple explore the use of excel to perform basic data computation and analysis.
+This program simply explore the use of excel to perform basic data computation and analysis in python3.
 
 A simple excel file containing the the name, class score and exam score of some John Does were
 used as a sample data. 
