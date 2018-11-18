@@ -1,10 +1,5 @@
-Class Score computation and Bar chart plot in python using sample
-data from Excel. PYTHON LIBRARIES (XLRD/XLWT/XLSXWRITER/PANDAS)
-
-Copyright 2018, Selassie Adiwokor, selassieadiwokor@gmail.com
-=======================================================================
-
-
+Class Score computation and Bar chart plot
+=============================================
 This program simply explore the use of PYTHON 3 to perform basic data computation and analysis by importing from excel.
 
 A simple excel file containing the the name, class score and exam score of some John Does were
@@ -35,3 +30,6 @@ Note:
 I will personally recommend the use of PANDAS since it's a great python library for big data analysis
 
 Thank you.
+
+
+Copyright 2018, Selassie Adiwokor, selassieadiwokor@gmail.com
