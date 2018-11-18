@@ -7,7 +7,7 @@ Python libraries such as (PANDAS, XLSXWRITER,XLRD,XLWT) were used to import and 
 from excel and back to excel. 
 
 This was further updated with a Bar Chart of the exported result.
-The programs present different alternative to plotting. 
+The programs present different alternatives to plotting. 
 
 
 class_score
