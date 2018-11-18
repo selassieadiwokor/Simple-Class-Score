@@ -13,16 +13,16 @@ The programs present different alternatives to plotting.
 class_score
 ==============
 This program leverage XLRD,XLWT to read the data from excel perform the calculation (finds the 100% by
-adding the class score to the exam score) and output the result in excl.
+adding the class score to the exam score) and output the result in excel.
 
 class_score_xlsxwriter
 =======================
-This program leverage XLRD & XLSWRITER as python libraries to read from excel and the write back to excel 
+This program leverage XLRD & XLSWRITER as python libraries to read from excel, then write back to excel 
 with a plotted Bar Chart of Scores against names.
 
 class_score_pandas
 ===================
-This program leverage PANDAS as python library to read and write to excel.
+This program leverage PANDAS as python library to read and write to excel. Also plots the result as Bar Chart
 
 Note:
 I will personally recommend the use of PANDAS since it's a great python library for big data analysis
