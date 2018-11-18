@@ -1,3 +1,11 @@
+##########################################################################
+#   Class Score computation and Bar chart plot in python using sample
+#   data from Excel. PANDAS DATAFRAME IS USED TO IMPORT & EXPORT TO EXCEL
+#
+#   Copyright 2018, Selassie Adiwokor, selassieadiwokor@gmail.com
+###########################################################################
+
+
 This program simply explore the use of PYTHON 3 to perform basic data computation and analysis by importing from excel.
 
 A simple excel file containing the the name, class score and exam score of some John Does were
