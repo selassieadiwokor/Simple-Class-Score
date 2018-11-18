@@ -6,6 +6,8 @@
 ###################################################################################
 import xlrd
 import xlwt
+
+#path to excel file directory on desktop -- please change
 loc = "/Users/macos/Desktop/Simple Class Score/exams_score.xlsx"  #navigate to the file path
 
 wb = xlrd.open_workbook(loc)

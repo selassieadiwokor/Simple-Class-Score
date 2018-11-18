@@ -9,7 +9,8 @@ from pandas import ExcelWriter
 from pandas import ExcelFile
 
 print("......Processing in progress....... ")
- 
+
+#path to excel file directory on desktop -- please change
 df = pd.read_excel('/Users/macos/Desktop/Simple Class Score/exams_score.xlsx', sheet_name='Sheet1')
  
 # print(df.columns)
