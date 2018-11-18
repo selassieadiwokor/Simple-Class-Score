@@ -1,9 +1,8 @@
-##########################################################################
-#   Class Score computation and Bar chart plot in python using sample
-#   data from Excel. PYTHON LIBRARIES (XLRD/XLWT/XLSXWRITER/PANDAS)
-#
-#   Copyright 2018, Selassie Adiwokor, selassieadiwokor@gmail.com
-###########################################################################
+Class Score computation and Bar chart plot in python using sample
+data from Excel. PYTHON LIBRARIES (XLRD/XLWT/XLSXWRITER/PANDAS)
+
+Copyright 2018, Selassie Adiwokor, selassieadiwokor@gmail.com
+=======================================================================
 
 
 This program simply explore the use of PYTHON 3 to perform basic data computation and analysis by importing from excel.
